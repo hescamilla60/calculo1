@@ -1,0 +1,8 @@
+body{font:16px/1.5 system-ui,sans-serif;max-width:640px;margin:auto;padding:1rem;color:#111827}
+button{font:inherit;padding:.6rem .9rem;margin:.25rem 0;border:1px solid #cbd5e1;border-radius:10px;background:#fff;cursor:pointer}
+.card,.opt{display:block;width:100%;text-align:left}.opt.sel{border-color:#2563eb;background:#eff6ff}
+.go{background:#2563eb;color:#fff;border:0}.go:disabled{opacity:.4}
+textarea{width:100%;min-height:80px;font:inherit;padding:.5rem}
+.steps span{font-size:.75rem;padding:.2rem .5rem;margin-right:.25rem;border-radius:99px;background:#f1f5f9}
+.steps .on{background:#2563eb;color:#fff}.ok{background:#ecfdf5;padding:.8rem;border-radius:10px;margin:.5rem 0}
+.no{background:#fffbeb;padding:.8rem;border-radius:10px;margin:.5rem 0}canvas{width:100%;max-width:460px;border:1px solid #e5e7eb}
